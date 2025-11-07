@@ -1,0 +1,378 @@
+═══════════════════════════════════════════════════════════════
+FAFSA TIMELINE GENERATOR - SCREENSHOT INSTRUCTIONS
+For use with Claude Desktop + Kapture MCP Tool
+═══════════════════════════════════════════════════════════════
+
+SETUP INSTRUCTIONS:
+1. Open Claude Desktop application
+2. Ensure Kapture MCP server is connected
+3. Copy each screenshot instruction block below
+4. Paste into Claude Desktop
+5. Kapture will automatically capture and save the screenshot
+6. Repeat for all screenshots
+
+NOTES:
+- Screenshots will be saved to ./screenshots/ folder
+- Use live URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+- For local testing: http://localhost:5173
+- Ensure light mode is active unless otherwise specified
+- Wait for full page load before capture
+
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #1: Hero Landing Page
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds after page load
+Output filename: hero-landing.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Open the URL in your browser
+2. Ensure viewport is set to 1920x1080
+3. Wait for all content to load (2 seconds)
+4. Ensure light mode is active
+5. Scroll to top of page
+6. Use Kapture to capture the full viewport
+7. Save as hero-landing.png in ./screenshots/ folder
+
+CONTENT TO SHOW:
+- MCF branded header with owl logo
+- "MY COLLEGE FINANCE" and "EDUCATE • MOTIVATE • ELEVATE" tagline
+- Dark mode toggle button
+- Hero section with "FAFSA Timeline Generator" heading
+- Gradient text heading
+- Subtitle: "Create your personalized FAFSA action plan..."
+- Sparkles icon with "Never miss a deadline" text
+- Top portion of the multi-step form wizard
+
+NOTES:
+- Use light mode theme
+- Ensure all fonts are loaded
+- Hide scrollbars if visible
+- Capture browser content only (no OS chrome)
+
+ALT TEXT (for README):
+"FAFSA Timeline Generator Tool landing page showing the MCF branded header, hero section with gradient heading, and the start of the multi-step timeline generation wizard"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #2: Timeline Form Wizard (Step 2)
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds after interaction
+Output filename: form-wizard-step2.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Navigate to the form wizard
+2. Fill out Step 1 (Basic Information):
+   - Name: "John Smith"
+   - Academic Year: "2025-26"
+   - Student Type: "High School Senior"
+3. Click "Next" to proceed to Step 2
+4. Wait for Step 2 (State Selection) to appear
+5. Capture the state selection interface
+6. Save as form-wizard-step2.png
+
+CONTENT TO SHOW:
+- Step progress indicator (Step 2 of 3)
+- State selection dropdown (expanded or closed)
+- Information about state-specific deadlines
+- "Previous" and "Next" navigation buttons
+- Form validation indicators
+
+ALT TEXT (for README):
+"Multi-step form wizard showing Step 2 where users select their state to receive state-specific FAFSA deadlines and requirements"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #3: Generated Timeline View
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 3 seconds after generation
+Output filename: generated-timeline.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Complete the full form wizard with:
+   - Name: "Sarah Johnson"
+   - Academic Year: "2025-26"
+   - Student Type: "High School Senior"
+   - State: "California"
+   - Special Circumstances: Check "Plan to file appeal"
+2. Click "Generate Timeline"
+3. Wait for timeline to render (3 seconds)
+4. Scroll to show the top of the timeline
+5. Capture viewport
+6. Save as generated-timeline.png
+
+CONTENT TO SHOW:
+- Timeline header card with student name ("Sarah Johnson's FAFSA Timeline")
+- Academic year, state, and student type info
+- "Start Over" button
+- Three stats cards: Total Deadlines, Completed, Progress %
+- "Download PDF" and "Export to Calendar" buttons
+- First 3-4 timeline items with color-coded urgency borders
+- Deadline countdown widget in sidebar
+- Pro Tips card in sidebar
+
+ALT TEXT (for README):
+"Generated personalized FAFSA timeline showing color-coded deadlines, progress tracking stats, export buttons, and upcoming deadline countdown widget"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #4: Timeline Item Detail with Notes
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds after modal open
+Output filename: timeline-item-notes.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. With generated timeline visible
+2. Click on a timeline item to open notes modal
+3. Add sample note: "Completed FSA ID creation. Gathered 2023 tax documents. Ready to start application."
+4. Wait for modal to render
+5. Capture the modal dialog
+6. Save as timeline-item-notes.png
+
+CONTENT TO SHOW:
+- Timeline item modal dialog
+- Item title and date
+- Item description
+- Checkbox for marking complete
+- Notes textarea with sample text
+- "Save" and "Cancel" buttons
+- Modal overlay (dimmed background)
+
+ALT TEXT (for README):
+"Timeline item detail modal showing completion checkbox and notes field where users can track documentation, questions, and progress for each deadline"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #5: Color-Coded Urgency Indicators
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds
+Output filename: urgency-indicators.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Scroll to a section showing multiple timeline items
+2. Ensure items with different urgency levels are visible:
+   - Red border (critical, ≤7 days)
+   - Amber border (warning, 8-30 days)
+   - Blue border (safe, 30+ days)
+   - Green border (completed)
+3. Capture the timeline section
+4. Save as urgency-indicators.png
+
+CONTENT TO SHOW:
+- At least 4 different timeline items
+- Different color-coded left borders (red, amber, blue, green)
+- Type badges (DEADLINE, PRIORITY, OPTIONAL)
+- Date formatting
+- Item titles and descriptions
+- Urgency visual hierarchy
+
+NOTES:
+- Try to capture variety of urgency states
+- Show the visual progression from safe to critical
+
+ALT TEXT (for README):
+"Timeline items with color-coded urgency indicators: red for critical deadlines within 7 days, amber for 8-30 days, blue for 30+ days, and green for completed tasks"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #6: Mobile Responsive View (Portrait)
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 375 x 812 (iPhone 12/13 portrait)
+Wait: 2 seconds
+Output filename: mobile-responsive.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Open Chrome DevTools (F12)
+2. Toggle device toolbar (Ctrl+Shift+M)
+3. Select "iPhone 12 Pro" or set custom 375x812
+4. Navigate to the app URL
+5. Show generated timeline view
+6. Capture full viewport
+7. Save as mobile-responsive.png
+
+CONTENT TO SHOW:
+- Condensed header with smaller logo
+- Stacked layout (single column)
+- Mobile-optimized stats cards
+- Timeline items in mobile view
+- Touch-optimized buttons (44px+ targets)
+- Readable text at mobile size
+- Responsive padding and spacing
+
+ALT TEXT (for README):
+"Mobile-responsive view at 375px width showing single-column layout, touch-optimized interface, and condensed header designed for smartphone screens"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #7: Dark Mode Theme
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds after theme toggle
+Output filename: dark-mode.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Navigate to generated timeline view
+2. Click the dark mode toggle button (moon icon)
+3. Wait for theme transition (2 seconds)
+4. Ensure dark theme is applied
+5. Capture viewport
+6. Save as dark-mode.png
+
+CONTENT TO SHOW:
+- Dark mode background (#141a21 blue-gray)
+- Light text on dark background (high contrast)
+- Enhanced urgency color visibility in dark mode
+- Dark mode card backgrounds
+- Sun icon (indicating light mode available)
+- Timeline items with dark mode styling
+- Sidebar with dark mode theme
+
+NOTES:
+- Verify all text is readable
+- Confirm urgency colors are distinct
+- Check focus indicators are visible
+
+ALT TEXT (for README):
+"Dark mode theme with enhanced contrast and optimized urgency colors for reduced eye strain during extended use"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #8: Export Options (PDF and Calendar)
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 1 second
+Output filename: export-options.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Navigate to generated timeline view
+2. Scroll to show export buttons clearly
+3. Hover over "Download PDF" button to show hover state
+4. Capture the export button section
+5. Save as export-options.png
+
+CONTENT TO SHOW:
+- "Download PDF" button with icon
+- "Export to Calendar" button with icon
+- Button hover states
+- Clear spacing and layout
+- MCF brand blue color on primary button
+
+ALT TEXT (for README):
+"Export options allowing users to download PDF timeline for printing or export to calendar apps (Google Calendar, Outlook, Apple Calendar) with automatic reminders"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #9: Deadline Countdown Widget
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds
+Output filename: deadline-countdown.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Navigate to generated timeline with upcoming deadlines
+2. Scroll to make sidebar visible
+3. Focus on the Deadline Countdown card
+4. Capture the countdown widget
+5. Save as deadline-countdown.png
+
+CONTENT TO SHOW:
+- "Next Deadline" card header
+- Large countdown number (e.g., "15 days")
+- Upcoming deadline title
+- Formatted date
+- Urgency styling based on days remaining
+
+ALT TEXT (for README):
+"Real-time deadline countdown widget showing days remaining until the next incomplete FAFSA deadline with urgency-based styling"
+
+═══════════════════════════════════════════════════════════════
+SCREENSHOT #10: Progress Tracking Stats
+═══════════════════════════════════════════════════════════════
+
+Use Kapture to capture a screenshot with these exact settings:
+
+URL: https://thiinkmg.github.io/FAFSA-Timeline-Generator-Tool/
+Viewport: 1920 x 1080 (desktop)
+Wait: 2 seconds
+Output filename: progress-stats.png
+Save location: ./screenshots/
+
+CAPTURE INSTRUCTIONS:
+1. Generate timeline and complete a few items
+2. Check off 3-4 timeline items to show progress
+3. Scroll to show the stats cards clearly
+4. Capture the three-column stats section
+5. Save as progress-stats.png
+
+CONTENT TO SHOW:
+- Three stats cards side by side
+- "Total Deadlines" card with blue styling
+- "Completed" card with green styling
+- "Progress" percentage card with purple styling
+- Large numbers prominently displayed
+- Descriptive labels below numbers
+
+ALT TEXT (for README):
+"Progress tracking dashboard showing total deadlines, completed tasks, and overall completion percentage with color-coded stat cards"
+
+═══════════════════════════════════════════════════════════════
+END OF INSTRUCTIONS
+═══════════════════════════════════════════════════════════════
+
+NEXT STEPS:
+1. Create screenshots/ folder in project root
+2. Open Claude Desktop
+3. Copy and paste each instruction block
+4. Verify all screenshots are saved
+5. Update README.md with actual screenshot references
+6. Commit screenshots to repository
+
+TROUBLESHOOTING:
+- If Kapture doesn't respond, verify MCP connection
+- If URL doesn't load, check if app is deployed
+- If viewport is wrong, use Chrome DevTools device toolbar
+- If theme is wrong, manually toggle light/dark mode
+
+For questions or issues, contact the MCF development team.
